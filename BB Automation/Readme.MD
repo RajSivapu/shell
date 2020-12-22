@@ -1,0 +1,1 @@
+These scripts is to automate bitbucket repo/projects/user/groups creation
